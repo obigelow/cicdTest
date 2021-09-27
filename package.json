@@ -1,0 +1,30 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Higher-Standard/serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Higher-Standard/serverless/issues"
+  },
+  "homepage": "https://github.com/Higher-Standard/serverless#readme",
+  "devDependencies": {
+    "aws-sdk": "^2.913.0",
+    "serverless-bundle": "^4.3.1",
+    "serverless-dotenv-plugin": "^3.9.0",
+    "serverless-offline": "^7.0.0"
+  },
+  "dependencies": {}
+}
